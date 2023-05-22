@@ -6,11 +6,7 @@
 ## 💫 About Me:
 
 - 🌱 I’m currently learning Front End Web Development
-- 🎓 [Know me more](https://AhmadRafif22.github.io)
-<br>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafif_alaudin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([my linkedin](https://www.linkedin.com/in/ahmad-rafif-alaudin-10989024a/)) 
+- 🌐 [Know me more](https://AhmadRafif22.github.io)
 
 <br>
 
